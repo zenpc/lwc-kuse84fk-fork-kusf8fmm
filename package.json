@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/zenpc.lwc-kuse84fk-fork-kusf8fmm",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KSBlqmwnVw4OK6sDwDxv --open"
+  }
+}
